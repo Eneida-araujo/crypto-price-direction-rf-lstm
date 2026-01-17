@@ -27,6 +27,11 @@ Experiments are conducted using historical market data obtained from the **Binan
 All experiments were conducted using fixed random seeds and consistent data splits.
 The raw data are not redistributed due to legal and ethical constraints, but can be obtained directly from Binance using the provided scripts.
 
+## License
+
+This project is licensed under the MIT License.
+See the LICENSE file for details.
+
 ## Requirements
 Python 3.9+
 
