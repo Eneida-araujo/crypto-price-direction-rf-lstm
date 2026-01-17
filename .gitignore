@@ -1,0 +1,74 @@
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ===============================
+# Virtual Environments
+# ===============================
+venv/
+.env/
+.venv/
+ENV/
+env/
+
+# ===============================
+# Jupyter / IPython
+# ===============================
+.ipynb_checkpoints/
+profile_default/
+ipython_config.py
+
+# ===============================
+# Data (raw or intermediate)
+# ===============================
+data/raw/
+data/interim/
+data/processed/
+*.csv
+*.parquet
+*.h5
+
+# ===============================
+# Results & Outputs (generated)
+# ===============================
+results_rf/
+results_lstm/
+results_comparison/
+*.pkl
+*.joblib
+*.npy
+
+# ===============================
+# Figures (generated automatically)
+# ===============================
+figures/tmp/
+figures/generated/
+
+# ===============================
+# Logs
+# ===============================
+logs/
+*.log
+
+# ===============================
+# OS-specific
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Editors & IDEs
+# ===============================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===============================
+# Misc
+# ===============================
+*.bak
+*.tmp
