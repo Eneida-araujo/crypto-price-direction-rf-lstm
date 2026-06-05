@@ -3,7 +3,6 @@
 This repository contains the source code and experimental pipeline used in the paper:
 
 **"Machine Learning Applied to Cryptoassets: A Comparative Evaluation between Random Forest and LSTM for Price Direction Prediction"**,  
-submitted to the *Journal of the Brazilian Computer Society (JBCS)*.
 
 ## Overview
 The project provides a controlled and reproducible comparison between:
